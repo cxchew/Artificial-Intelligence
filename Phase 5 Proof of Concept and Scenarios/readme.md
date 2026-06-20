@@ -14,7 +14,7 @@ To bridge this operational interface gap, our proof of concept demonstrates the 
 To validate the operational performance of our underlying AI model, the following user interface components illustrate the agent's real-time communication strategy when resolving high-risk climate factors.
 
 ### 🚨 Scenario 1: Critical Flood Risk Management
-<img src="images/crfm.png" width="600" alt="Critical Flood Risk Management Screen">
+<img src="images/cfrm.png" width="600" alt="Critical Flood Risk Management Screen">
 
 
 *Figure 1: UI dashboard displaying critical climate tracking flags and localized weather threat indicators.*
