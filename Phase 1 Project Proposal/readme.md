@@ -13,20 +13,10 @@ The finalized proposal establishes a comprehensive user-centric framework via De
 ---
 
 ## 2. Personal Reflection
+**Key Takeaway**
 
-**Name:** Chew Chiu Xian  
-**Course:** Artificial Intelligence (SECJ3553 - Section 03)  
-**Project Component:** Phase 1 — Technical Project Proposal  
-
-* Working on this introductory phase allowed me to see how raw real-world frustrations can be systematically translated into an engineering problem space. Before starting, I viewed artificial intelligence primarily through the lens of pure algorithm execution. However, building out the Empathy Maps and the User-Need-Insight matrices for the agricultural sector showed me that the success of an AI system depends entirely on precise problem formulation. Exploring how a farmer's anxiety over unpredictable rainfall patterns can be addressed by setting up Knowledge Representations and State Space Search frameworks helped bridge the gap between human needs and technical implementations.
-
-* My primary focus during this phase was evaluating how messy environmental anomalies could be organized into clear machine-logic constraints. By collaborating with my team to isolate environmental variables—such as temperature, soil humidity, and rainfall data—I learned how to break down an unpredictable field environment into variables that fit predictive inference rules. This foundational stage taught me that an AI model is only as effective as the architectural guardrails defined during initial design thinking, setting a great foundation as we transition from conceptual logic into physical model training.
+* **Systematic Problem Formulation:** Working on this introductory phase showed me how human frustrations and unpredictable agricultural risks can be systematically translated into an engineering problem space. I learned that the success of any AI implementation depends entirely on establishing structured analytical constraints rather than rushing straight into executing data models.
+* **Bridging Human Needs and Machine Logic:** Constructing the Empathy Maps and User-Need-Insight matrices allowed me to connect user-centric real-world stressors directly with technical solution designs. I realized that abstract AI workflows, such as establishing Knowledge Representations or searching optimization spaces, must act as immediate solutions to user operational vulnerabilities.
+* **Establishing Architectural Boundaries:** I learned how to isolate critical environmental variables—such as temperature deviations, crop cycles, and sudden flood indicators—into manageable, predictable constraints. This phase proved that defining precise architectural parameters early on is a vital step before shifting concepts into operational code or system training pipelines.
 
 ---
-
-### 👥 Team Credits (Group 9)
-* **Lau Yan Kai** (A23CS0098)
-* **Sabrina Heng Wei Qi** (A23CS0265)
-* **Chew Chiu Xian** (A23CS0061) — *Portfolio Owner*
-* **Najma Shakirah Binti Shahrulzaman** (A23CS0140)
-* **Course Instructor:** Dr. Norsham binti Idris
