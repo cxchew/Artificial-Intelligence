@@ -13,12 +13,10 @@ The resulting knowledge architecture is modular, completely traceable, and easil
 
 ## 2. Personal Reflection
 
-**Name:** Chew Chiu Xian  
-**Course:** Artificial Intelligence (SECJ3553 - Section 03)  
-**Project Component:** Phase 2 — Knowledge Representation
+**Key Takeaway** 
 
-* Moving into Phase 2 allowed me to bridge the gap between high-level project goals and exact machine reasoning. Before this assignment, I viewed artificial intelligence primarily through raw statistical numbers and black-box calculations. Building our own predicate logic models and production rules taught me how to take abstract human experiences—like a farmer determining if an immature field is worth saving from a heavy storm—and organize them into strict mathematical truths. Mapping variables like crop age thresholds and real-time flood indicators into symbolic equations using logic connectors ($\land$, $\lor$, $\rightarrow$) showed me how a software backend can systematically "think" through real-world contradictions without failing.
-
-* My core focus during this phase was maintaining structural clarity and modularity across our relational rules. I collaborated with my team to define clear logic boundaries, making sure that each predicate was isolated enough to allow new environmental variables or crop types to be introduced without breaking the main system logic. Overcoming the challenge of writing precise conditional statements taught me that a scalable AI system must possess an open, explainable reasoning layer, ensuring that every recommendation pushed to a farmer's dashboard can be tracked back to clear data rules.
+* **Symbolic Logic Transformation:** This phase taught me how to bridge the gap between human agricultural judgment and symbolic computer logic. I learned how to represent complex real-world variables, like assessing if an underdeveloped crop is mature enough to withstand an emergency rain harvest, as formal mathematical rules using logical connectors ($\land$, $\lor$, $\rightarrow$).
+* **Resolving Operational Conflicts:** I gained a deep understanding of how First-Order Predicate Logic (FOPL) and production rules work together to help an automated engine evaluate shifting farm environments. Applying universal ($\forall$) and existential ($\exists$) quantifiers showed me how a system backend can process multi-variable combinations and trigger clear, real-time diagnostic alerts without program crashing.
+* **Designing Explainable and Modular Architectures:** I learned the value of maintaining clean modularity when structuring declarative logic. Ensuring that each predicate and rule acts as an isolated, traceable component showed me how to design an open, explainable AI model that can easily scale to incorporate new sensor properties, crop thresholds, or external climate API criteria.
 
 ---
